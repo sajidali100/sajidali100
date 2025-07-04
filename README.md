@@ -1,3 +1,5 @@
+
+
 <h1>👋 Hi, I'm Sajid Ali</h1>
 
 <h3>Connect with me:</h3>  
@@ -15,35 +17,27 @@
 I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on building scalable e-learning platforms, WooCommerce booking systems, and API-integrated business tools. I specialize in **custom plugin development**, **Tutor LMS Pro customization**, and dynamic UI/UX builds using **Elementor + custom JS/CSS**.
 
 
-⚡ Rapid Fire
+<h3>⚡ Rapid Fire</h3>
 
 🔭 Currently working on:  
-→ AI-integrated LMS websites  
-→ Booking forms for WooCommerce + Elementor  
-→ Custom dashboard & admin tools with Laravel
+AI-integrated LMS websites - Booking forms for WooCommerce + Elementor - Custom dashboard & admin tools with Laravel
 
 👯 Looking to collaborate on:  
-→ WordPress theme/plugin development  
-→ LMS systems (Tutor LMS, LearnDash)
+WordPress theme/plugin development - LMS systems (Tutor LMS, LearnDash)
 
 🤝 Looking for help with:  
-→ Scaling full stack apps for high traffic  
-→ SEO performance on complex WP sites
+Scaling full stack apps for high traffic - SEO performance on complex WP sites
 
 🌱 Currently learning:  
-→ Advanced Tailwind + React animations  
-→ Automated YouTube cartoon video generation
+Advanced Tailwind + React animations - Automated YouTube cartoon video generation
 
 💬 Ask me about:  
-→ Tutor LMS Pro + Elementor  
-→ Full stack app deployment (Laravel/React)  
-→ Stripe / Zoom / Custom API integrations  
-→ Fiverr client communication strategies
+Tutor LMS Pro + Elementor - Full stack app deployment (Laravel/React) - Stripe / Zoom / Custom API integrations - Fiverr client communication strategies
 
 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
 
 
-💻 My Skills
+<h3>💻 My Skills</h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)

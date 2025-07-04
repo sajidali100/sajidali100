@@ -19,11 +19,11 @@ I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on bui
 
 <h3>Rapid Fire</h3>
 <ul>
-  <li><strong>Currently working on:</strong> AI-integrated LMS websites, Booking forms for WooCommerce + Elementor, Custom dashboards & admin tools with Laravel</li>
-  <li><strong>Looking to collaborate on:</strong> WordPress theme/plugin development, LMS systems (Tutor LMS, LearnDash)</li>
-  <li><strong>Looking for help with:</strong> Scaling full stack apps for high traffic, SEO performance on complex WP sites</li>
-  <li><strong>Currently learning:</strong> Advanced Tailwind + React animations, Automated YouTube cartoon video generation</li>
-  <li><strong>Ask me about:</strong> Tutor LMS Pro + Elementor, Full stack app deployment (Laravel/React), Stripe / Zoom / Custom API integrations, Fiverr client communication strategies</li>
+  <li><strong>🔭 Currently working on:</strong> AI-integrated LMS websites, Booking forms for WooCommerce + Elementor, Custom dashboards & admin tools with Laravel</li>
+  <li><strong>👯 Looking to collaborate on:</strong> WordPress theme/plugin development, LMS systems (Tutor LMS, LearnDash)</li>
+  <li><strong>🤝 Looking for help with:</strong> Scaling full stack apps for high traffic, SEO performance on complex WP sites</li>
+  <li><strong>🌱 Currently learning:</strong> Advanced Tailwind + React animations, Automated YouTube cartoon video generation</li>
+  <li><strong>💬 Ask me about:</strong> Tutor LMS Pro + Elementor, Full stack app deployment (Laravel/React), Stripe / Zoom / Custom API integrations, Fiverr client communication strategies</li>
 </ul>
 
 

@@ -1,6 +1,7 @@
 **👋 Hi, my name is Sajid Ali**
 
 🔗 Connect with Me  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Fiverr](https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
@@ -41,9 +42,8 @@ I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on bui
 
 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
 
----
 
-## 💻 My Skills
+💻 My Skills
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)

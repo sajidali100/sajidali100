@@ -25,10 +25,6 @@ I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on bui
   <li><strong>💬 Ask me about:</strong> Tutor LMS Pro + Elementor, Full stack app deployment (Laravel/React), Stripe / Zoom / Custom API integrations, Fiverr client communication strategies</li>
 </ul>
 
-
-📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
-
-
 <h3>💻 My Skills</h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)

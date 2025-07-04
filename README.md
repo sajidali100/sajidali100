@@ -1,121 +1,65 @@
-<h1 align="center">👋 Hi, I'm Sajid Ali</h1>
-<h3 align="center">💻 WordPress & Full Stack Web Developer | WooCommerce Expert | LMS Specialist | Fiverr Pro</h3>
+👋 Hi, my name is Sajid Ali
 
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://fiverr.com/your-profile-name"><img src="https://img.shields.io/badge/Fiverr-Pro%20Freelancer-success?style=flat&logo=fiverr" alt="Fiverr"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-informational?style=flat&logo=gmail" alt="Email"></a>
-</p>
+📍 I'm a WordPress & Full Stack Web Developer, with 7+ years of experience building high-converting websites, LMS platforms, and WooCommerce stores. I specialize in creating custom themes, plugins, and dynamic course booking systems.
 
 ---
 
-## 🚀 About Me
+## 🚀 Rapid Fire
 
-I'm a dedicated **WordPress Developer** with 7+ years of experience in:
-- Custom Themes & Plugins
-- Full Stack Web Development (Laravel, React, Node)
-- WooCommerce Setup & Custom Booking Systems
-- Tutor LMS Customization for Course Platforms
-- API Integration & Automation
-- Speed Optimization, SEO, and Core Web Vitals
+💼 I'm currently working on:  
+→ Building AI-integrated course websites using **Tutor LMS + Elementor**  
+→ Creating dynamic booking modals for **WooCommerce products**  
+→ Developing full-stack apps using **Laravel & React**
 
----
+🌱 I'm currently learning:  
+→ Advanced automation tools for **YouTube video generation**  
+→ Full CI/CD workflows for modern **PHP + JS** apps
 
-## 🔧 Tech Stack
+💬 Ask me about:  
+→ WordPress Theme/Plugin Dev,  
+→ WooCommerce Customization,  
+→ Elementor Pro + Custom Widgets,  
+→ Tutor LMS Integrations,  
+→ API connections (Zoom, Stripe, etc.)
 
-**Languages & Frameworks:**  
-`PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `Laravel` `React` `Node.js`
+⚡ Fun fact:  
+I once built an entire LMS prototype on my phone while stuck on a long road trip 🤯
 
-**WordPress Specialties:**  
-`Elementor Pro` `WooCommerce` `Tutor LMS` `Custom Post Types` `ACF Pro`
-
-**Other Tools & APIs:**  
-`Stripe` `PayPal` `Zoom API` `REST APIs` `cPanel` `Cloudflare` `Git`
-
----
-
-## 💼 What I'm Working On
-
-- Tutor LMS Elementor Course Templates & Booking Forms  
-- Custom WooCommerce Booking Flow  
-- AI-integrated YouTube Automation Tools  
-- Full Stack Projects with Laravel & React  
-- Speed Optimization & Mobile Performance
+📂 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+📫 Contact: [youremail@example.com](mailto:youremail@example.com)  
+💼 Fiverr: [fiverr.com/your-profile](https://fiverr.com/your-profile)
 
 ---
 
-## 👯 Collaboration Interests
+## 🧠 Skills
 
-I’d love to collaborate on:
-- Elementor-based custom site builds  
-- Full LMS platforms using Tutor LMS  
-- WooCommerce automation + checkout enhancements  
-- API-powered dashboards & admin tools
-
----
-
-## 🤝 I’m Looking For
-
-- Developers working with Elementor + WooCommerce  
-- Creative collaborators for automation-based YouTube channels  
-- Scaling WordPress multisite projects and APIs
-
----
-
-## 🌱 Currently Learning
-
-- AI Content Systems (e.g., GPT + WordPress)  
-- Framer Motion animations in React  
-- Laravel Jetstream + API Security
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 💬 Ask Me About
+## 🔗 Let's Connect
 
-- WordPress Custom Development (Themes & Plugins)  
-- Elementor Pro + Custom Widgets  
-- WooCommerce Checkout Flow & Cart Integration  
-- Tutor LMS Course Platforms  
-- SEO + Speed Optimization  
-- Fiverr Freelancing & Client Communication
-
----
-
-## 📫 Reach Me
-
-- 📧 **Email:** `youremail@example.com`  
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-- 💼 **Fiverr:** [fiverr.com/your-profile-name](https://fiverr.com/your-profile-name)  
-- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-## 👨‍💻 Projects & Articles
-
-- 🔗 All Projects: [github.com/yourusername](https://github.com/yourusername)  
-- 📝 Blogs & Tutorials: Coming soon...  
-- 📄 Resume: [Download PDF](https://yourwebsite.com/resume.pdf) *(optional)*
-
----
-
-## ⚡ Fun Fact
-
-I turn long, boring processes into smart automation flows.  
-If it repeats, I automate it 😎.
+[![Fiverr](https://img.shields.io/badge/Fiverr-Pro%20Freelancer-success?style=for-the-badge&logo=fiverr)](https://fiverr.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
-## 📍 Visitor Counter
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=0&icon=5" alt="visitor count"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="47%" />
 </p>

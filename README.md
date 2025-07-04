@@ -13,10 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 
----
-
-## 📄 About Me – Short & Sweet
-
 I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on building scalable e-learning platforms, WooCommerce booking systems, and API-integrated business tools. I specialize in **custom plugin development**, **Tutor LMS Pro customization**, and dynamic UI/UX builds using **Elementor + custom JS/CSS**.
 
 ---

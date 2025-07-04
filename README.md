@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Sajid Ali</h1>
+<h1 align="left">👋 Hi, I'm Sajid Ali</h1>
 
-🔗 Connect with Me  
+<h3>🔗 Connect with Me</h3>  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Fiverr](https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile)

@@ -17,22 +17,17 @@
 I'm a **WordPress Developer & Full Stack Web Expert** with a strong focus on building scalable e-learning platforms, WooCommerce booking systems, and API-integrated business tools. I specialize in **custom plugin development**, **Tutor LMS Pro customization**, and dynamic UI/UX builds using **Elementor + custom JS/CSS**.
 
 
-<h3>⚡ Rapid Fire</h3>
+<h3>Rapid Fire</h3>
 
-🔭 Currently working on:  
-AI-integrated LMS websites - Booking forms for WooCommerce + Elementor - Custom dashboard & admin tools with Laravel
+🔭 Currently working on: AI-integrated LMS websites - Booking forms for WooCommerce + Elementor - Custom dashboard & admin tools with Laravel
 
-👯 Looking to collaborate on:  
-WordPress theme/plugin development - LMS systems (Tutor LMS, LearnDash)
+👯 Looking to collaborate on: WordPress theme/plugin development - LMS systems (Tutor LMS, LearnDash)
 
-🤝 Looking for help with:  
-Scaling full stack apps for high traffic - SEO performance on complex WP sites
+🤝 Looking for help with: Scaling full stack apps for high traffic - SEO performance on complex WP sites
 
-🌱 Currently learning:  
-Advanced Tailwind + React animations - Automated YouTube cartoon video generation
+🌱 Currently learning: Advanced Tailwind + React animations - Automated YouTube cartoon video generation
 
-💬 Ask me about:  
-Tutor LMS Pro + Elementor - Full stack app deployment (Laravel/React) - Stripe / Zoom / Custom API integrations - Fiverr client communication strategies
+💬 Ask me about: Tutor LMS Pro + Elementor - Full stack app deployment (Laravel/React) - Stripe / Zoom / Custom API integrations - Fiverr client communication strategies
 
 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
 

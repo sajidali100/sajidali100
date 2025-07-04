@@ -1,4 +1,4 @@
-**👋 Hi, my name is Sajid Ali**
+<h1 align="left">Hi 👋, I'm Sajid Ali</h1>
 
 🔗 Connect with Me  
 
